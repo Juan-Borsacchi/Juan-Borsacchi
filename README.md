@@ -35,7 +35,7 @@ I’m constantly improving my technical and creative abilities. Every challenge 
 
 - [LinkedIn](https://www.linkedin.com/in/juanborsacchi)  
 - 📧 Email: juanborsacchi2006@gmail.com
-- Portfolio: (https://juan-borsacchi.github.io)
+- [Portfolio](https://juan-borsacchi.github.io)
 
 ---
 
