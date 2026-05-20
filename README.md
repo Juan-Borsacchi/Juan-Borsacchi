@@ -9,7 +9,6 @@ Hello! I'm **Juan Borsacchi**, a Computer Engineering student and passionate tec
 🎓 Student of **Computer Engineering**  
 💡 Certified in **Systems Development**  
 🖥️ **iOS Developer** at Apple Developer Academy | Senac
-
 ⚙️ Passionate about **hardware** and **software**  
 📍 Based in Brazil | 🌐 Open to remote opportunities
 
