@@ -25,19 +25,6 @@ Hello! I'm **Juan Borsacchi**, a Computer Engineering student and passionate tec
 
 ---
 
-## 📁 Featured Projects
-
-🛠️ **Line Follower Robot**  
-— Fully analog robot designed from scratch, including circuit modifications and visual design.
-
-🧠 **SuperGeeks Lessons**  
-— Instructor responsible for teaching logic, game development, and maker culture to children and teenagers in a playful way.
-
-🌐 **Web Interfaces & Components**  
-— Personal responsive layouts and UI/UX practice projects.
-
----
-
 ## 🌱 Always Learning
 
 I’m constantly improving my technical and creative abilities. Every challenge is a chance to grow — whether it's writing cleaner code, building smarter circuits, or helping someone else understand something new.
@@ -47,7 +34,8 @@ I’m constantly improving my technical and creative abilities. Every challenge 
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/juanborsacchi)  
-- 📧 Email: juan.gabriel.borsacchi@gmail.com  
+- 📧 Email: juanborsacchi2006@gmail.com
+- Portfolio: (https://juan-borsacchi.github.io)
 
 ---
 
