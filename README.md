@@ -18,9 +18,9 @@ Hello! I'm **Juan Borsacchi**, a Computer Engineering student and passionate tec
 
 ![My Skills](https://skillicons.dev/icons?i=swift,html,css,js,bootstrap,python,java,cpp,cs,arduino,figma,vscode,github,linux)
 
-- **Languages:** JavaScript, Python, C++, C#, HTML, CSS  
+- **Languages:** Swift, Python, C++, JavaScript, C#, Java, HTML, CSS  
 - **Frameworks/Libraries:** Bootstrap  
-- **Hardware:** Arduino, Sensors, Analog Projects  
+- **Hardware:** Raspberry, Esp, Arduino, Sensors, Analog Projects  
 - **Tools:** GitHub, VSCode, Figma, Linux
 
 ---
