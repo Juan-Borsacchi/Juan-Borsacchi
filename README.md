@@ -8,8 +8,8 @@ Hello! I'm **Juan Borsacchi**, a Computer Engineering student and passionate tec
 
 🎓 Student of **Computer Engineering**  
 💡 Certified in **Systems Development**  
-👨‍🏫 **Instructor of Computer Science for Kids and Teens** at SuperGeeks  
-⚙️ Passionate about **hardware**, **software**, and **teaching technology**  
+🖥️ **iOS Developer ** at Apple Developer Academy | Senac
+⚙️ Passionate about **hardware** and **software**  
 📍 Based in Brazil | 🌐 Open to remote opportunities
 
 ---
